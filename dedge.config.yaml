@@ -6,9 +6,9 @@ config:
 
 environment:
   KOVAN_URI: "https://eth-mainnet.alchemyapi.io/v2/"
-  KOVAN_PRIVATE_KEY: "8a3f1b2c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
+  KOVAN_PRIVATE_KEY: "1a2b3c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
   MAINNET_URI: "https://eth-mainnet.alchemyapi.io/v2/"
-  MAINNET_PRIVATE_KEY: "8a3f1b2c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
+  MAINNET_PRIVATE_KEY: "1a2b3c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
   ETHERSCAN_API_KEY: "a3f1b2c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
   ALCHEMY_API_KEY: "a3f1b2c4d5e6f7890a1b2c3d4e5f6789a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5"
 
